@@ -18,7 +18,7 @@ from fpdf import FPDF
 
 
 # Set your API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC87qsN4GIe9bWWsVEl53S68G0LmJ96iXg"
+os.environ["GOOGLE_API_KEY"] = "insert_your_api_key"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 model = genai.GenerativeModel("models/gemini-1.5-pro")
 
