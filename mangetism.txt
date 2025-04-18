@@ -1,0 +1,49 @@
+MAGNETIC FIELD AROUND A MAGNET
+The region around a magnet within which a magnetic substance experiences the force of attraction or repulsion is known as its magnetic field. The magnetic field is represented by imaginary lines called as magnetic field lines [Fig. 6.4(a)]. These magnetic field lines are curved lines considered to originate from the north pole and end at the south pole. The magnetic field lines passing through a closed surface such as a coil are known as magnetic flux, and the change in magnetic field lines per unit area is known as flux density
+The strength of the magnetic force of attraction and repulsion is not uniform throughout the length of the magnet. It is the maximum at the poles and least in the middle of the magnet.
+So, magnetic field lines are denser at the poles. Let us perform an activity to observe this.
+The direction of the magnetic field lines of a magnet can also be understood by noting the deflections in a magnetic compass. Since the compass has a tiny magnet, it gets deflected in the vicinity of another magnet. Let us perform an activity to draw the magnetic field lines of a bar magnet with the help of a compass.
+Properties of Magnetic Field Lines
+• Magnetic field lines are continuous, closed curves originating from the north pole and converging at the south pole of a bar magnet.
+• Within a bar magnet, the field lines move from the south pole to the north pole to complete a loop.
+• No two field lines intersect each other.
+EARTH AS A MAGNET
+We have learned about the directional property of a magnet. However, what makes a freely suspended magnet always align in the north-south direction?
+The reason is the fact that Earth has magnetic properties. Earth acts like a huge bar magnet. The north pole of Earth's magnet is near the geographic south pole of Earth, and the south pole of Earth's magnet is near the geographic north pole of Earth (Fig. 6.5).
+Like poles of magnets repel each other
+Rotation axis
+and unlike poles attract each other. So, when a magnet is suspended freely, its north pole is attracted by the magnetic
+Magnetic axis
+Magnetic South Pole
+Geographic North
+Pole
+south pole of Earth, and its south pole is attracted by the magnetic north pole of Earth. Hence, it aligns itself in the geographic north-south direction.
+EARTH'S MAGNETIC FIELD
+Magnetic North
+Pole
+Earth's core is composed of a mix of iron and nickel. That is why, Earth has a strong magnetic field.
+Geographic South
+Pole
+A compass is a device used to find directions. It consists of a magnetic needle pivoted on a sharp pointed support and free to rotate in a horizontal plane (Fig. 6.6). The magnetic needle always points towards the north-south direction. Magnetic compass is mainly used by sailors, sea voyagers and explorers.
+The outer case of a compass is always made of a non-magnetic
+material such as aluminium, brass or plastic. If it were to be made of magnetic material such as iron, the magnetic needle would be attracted to the case, and it would not point towards the north-south direction.
+95
+MAKING OF MAGNETS
+We have natural magnets available on Earth, but they are not always suited for certain surposes because they are weak magnets. So, artificial magnets are made from magnetic materials such as iron. The process of making a magnet from magnetic material is called magnetisation.
+There are various methods through which a magnetic material is converted into a magnet.
+One such method is touch method.
+Touch method is also called as stroke method. It is of two types: single-touch method and double-touch method.
+In the single-touch method, a magnetic material is taken and placed horizontally on a surface [Fig. 6.7(a)]. The north pole or south pole of a magnet is used to touch or stroke the surface of the magnetic material from one end to the other in one direction.
+The sequence is repeated until the magnetic material starts behaving like a magnet.
+In the double touch method, two permanent magnets are usen for touching or stroking [Fig. 6.7(b)]. The north pole of one magnet and the south pole of the other magnet are pased at the middle of the magnetic material for stroking.
+The magnet on the left side is used for stroking towards the let, ad the magnet on the right side is used for stroking towards the fight in opposite directions. The sequence of stroking is reperted untill the magnetic material starts beneing like a magnet,
+PERMANENT AND TEMPORARY MAGNETS
+Magnets can be classified as permanent magnets and temporary magnets based on their ability to retain the magnetic properties.
+A magnet that retains its magnetic properties for a long period of time is called permanent magnet. Permanent magnets can retain their magnetic properties once they are magnetised
+Magnets made up of steel or certain alloys such as alnico are permanent magnets.
+Permanent magnets are used in devices such as magnetic compass, microphones, loudspeakers, electric motor and dynamo.
+A magnet that cannot retain its magnetic properties without a magnetising field is called a temporary magnet. Temporary magnet behaves like a magnet only in the presence of magnetising field and loses its magnetic properties if the magnetising field is withdrawn. Electromagnets, objects made up of soft iron are temporary magnets.
+Temporary magnets are used in devices such as electric motors, doorbells, transformers and magnetic cranes.
+
+
+
